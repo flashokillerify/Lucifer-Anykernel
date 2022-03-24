@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Lucifer kernel V1 - by @flasho_mine
+kernel.string=Velvet kernel V1 - by @flasho_mine
 do.devicecheck=1
 do.modules=0
 do.systemless=0
